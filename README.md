@@ -1,1 +1,3 @@
-I'm still working on this homework
+Gmaps doesn't work on my jupyter notebook, and I was unable to produce a map or a picture
+
+Looking at the linear regression plot for temperature, you can see that there is a strong correlation between degrees of latitude and temperature. The closer you get to 0 degrees latitude, the higher the temperature becmones. You can also infer that there is no correlation between latitude and humidity. Although, there seems to be a higher incidence of humidity in the northern hemisphere than the southern. Lastly, there is a strong correlation between wind speed and latitude in the northern hemisphere, while there is little correlation in the southern hemisphere. 
